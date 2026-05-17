@@ -1,24 +1,44 @@
 {
     "posts": [
         {
-            "name": "Product 1",
+            "name": "Snickers",
             "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
             "pice": 100
         },
         {
-            "name": "Product 2",
+            "name": "Twix",
             "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
-            "pice": 200
+            "pice": 102
         },
         {
-            "name": "Product 3",
+            "name": "M&M",
             "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
-            "pice": 300
+            "pice": 103
         },
         {
-            "name": "Product 4",
+            "name": "Kit Kat",
             "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
-            "pice": 400
+            "pice": 104
+        },
+        {
+            "name": "Orio",
+            "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
+            "pice": 105
+        },
+        {
+            "name": "Milky Way",
+            "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
+            "pice": 106
+        },
+        {
+            "name": "Mars",
+            "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
+            "pice": 107
+        },
+        {
+            "name": "Picnic",
+            "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
+            "pice": 108
         }
     ],
     "profile": {
