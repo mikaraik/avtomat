@@ -1,0 +1,27 @@
+{
+    "posts": [
+        {
+            "name": "Product 1",
+            "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
+            "pice": 100
+        },
+        {
+            "name": "Product 2",
+            "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
+            "pice": 200
+        },
+        {
+            "name": "Product 3",
+            "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
+            "pice": 300
+        },
+        {
+            "name": "Product 4",
+            "image": "https://teddikis.apteka-april.ru/images/decorations/strawberry-1.png",
+            "pice": 400
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
